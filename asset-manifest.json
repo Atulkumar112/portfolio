@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.98612011.css",
+    "main.js": "/portfolio/static/js/main.904a0074.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.fb30d7ab.chunk.js": "/portfolio/static/js/769.fb30d7ab.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/aktu": "/portfolio/static/media/aktu.5b68aeb7a2d4aaffd378",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/gfg.png": "/portfolio/static/media/gfg.e7b39b370e3854f6a59b.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/digantara.png": "/portfolio/static/media/digantara.4342692e97b0eddb56ec.png",
+    "static/media/capgemini.png": "/portfolio/static/media/capgemini.22f7b206bcb821b1a870.png",
+    "static/media/leetcode.png": "/portfolio/static/media/leetcode.450f3362474b5769f1a6.png",
+    "static/media/hackerrank.png": "/portfolio/static/media/hackerrank.eab675a51239a438321a.png",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/portfolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/portfolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.98612011.css.map": "/portfolio/static/css/main.98612011.css.map",
+    "main.904a0074.js.map": "/portfolio/static/js/main.904a0074.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.fb30d7ab.chunk.js.map": "/portfolio/static/js/769.fb30d7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98612011.css",
+    "static/js/main.904a0074.js"
+  ]
+}
